@@ -8,7 +8,8 @@ A WriterDeck is a distraction-free device solely created for writing. A WriterDe
 - A keyboard
 - Usually a battery
 - Software
-- Usually a case
+- Usually a case  
+  
 To see more information about what a WriterDeck is, see r/WriterDeck or writerdeck.org
 
 ## SquidDeck components:
